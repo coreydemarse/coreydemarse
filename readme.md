@@ -12,16 +12,16 @@
 
 <p align="center">
 <a href="https://github.com/coreydemarse/nocode">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=nocode&border_color=30363d&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=nocode&border_color=768390&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
 </a>
 <span>&nbsp;</span>
 <a href="https://github.com/coreydemarse/locksend">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=locksend&border_color=30363d&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=locksend&border_color=768390&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
 </a>
 </p>
 
 <p align="center">
 <a href="https://github.com/coreydemarse/vitepress-quasar">
-<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=vitepress-quasar&border_color=30363d&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=coreydemarse&repo=vitepress-quasar&border_color=768390&bg_color=2d333b00&title_color=768390&text_color=768390&icon_color=02D892" />
 </a>
 </p>
