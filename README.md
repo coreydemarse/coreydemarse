@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src='https://komarev.com/ghpvc/?username=coreydemarse&color=008080' />
 
-<!--
-**coreydemarse/coreydemarse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[click here to send me a message...](https://coreydemarse.com/contact.html)**
 
-Here are some ideas to get you started:
+### 🥞 My Stack 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=linux,vue,tailwind,vite,nodejs,tauri,postgres,redis,mongodb,docker"></img>
+
+*[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,elixir,ruby,python,cs,php,bash"></img>
+
+**Currently Exploring**
+
+<img src="https://skillicons.dev/icons?i=deno,rust,wasm,tensorflow,solidity"></img>
+
+## GitHub Stats
+
+![github stats](https://github-readme-stats.vercel.app/api?username=coreydemarse&show_icons=true&hide=stars&hide_border=true&bg_color=2d333b00&icon_color=63666a&title_color=768390&text_color=768390)
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coreydemarse&layout=compact&show_icons=true&hide_border=true&bg_color=2d333b00&icon_color=63666a&title_color=768390&text_color=768390&hide=jupyter%20notebook,TeX,css,scss)
