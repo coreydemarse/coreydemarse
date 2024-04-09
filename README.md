@@ -2,20 +2,24 @@
 
 **[click here to send me a message...](https://coreydemarse.com/contact.html)**
 
-### 🥞 My Stack 
+### My Stack 🥞 
+<br />
+<img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,nginx" />
 
-<img src="https://skillicons.dev/icons?i=linux,vue,tailwind,vite,nodejs,tauri,postgres,redis,mongodb,docker"></img>
+### Current Stack
+<br />
+<img src="https://skillicons.dev/icons?i=vue,pinia,tailwind,vite,vitest,nodejs,express,prisma,tauri" />
 
-*[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
+### Databases
+<br />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 
 ### Languages
-
-<img src="https://skillicons.dev/icons?i=ts,js,elixir,ruby,python,cs,php,bash"></img>
+<br />
+<img src="https://skillicons.dev/icons?i=html,css,ts,js,elixir,ruby,python,cs,php,bash"/>
 
 **Currently Exploring**
 
-<img src="https://skillicons.dev/icons?i=deno,rust,wasm,tensorflow,solidity"></img>
+<img src="https://skillicons.dev/icons?i=deno,rust,wasm,tensorflow,solidity" />
 
-## 
-
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coreydemarse&layout=compact&show_icons=true&hide_border=true&bg_color=2d333b00&icon_color=63666a&title_color=768390&text_color=768390&hide=jupyter%20notebook,TeX,css,scss)
+*[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
