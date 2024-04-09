@@ -2,7 +2,7 @@
 
 **[click here to send me a message...](https://coreydemarse.com/contact.html)**
 
-### My Stack 🥞 
+## My Stack 🥞 
 <br />
 <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,nginx" />
 
