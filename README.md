@@ -8,7 +8,7 @@
 
 ### Current Stack
 <br />
-<img src="https://skillicons.dev/icons?i=vue,pinia,tailwind,vite,vitest,nodejs,express,prisma,tauri" />
+<img src="https://skillicons.dev/icons?i=ts,vue,pinia,tailwind,vite,vitest,nodejs,express,prisma,tauri" />
 
 ### Databases
 <br />
