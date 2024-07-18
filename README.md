@@ -8,7 +8,7 @@
 
 ### Current Stack
 <br />
-<img src="https://skillicons.dev/icons?i=ts,vue,pinia,tailwind,vite,vitest,nodejs,ruby" />
+<img src="https://skillicons.dev/icons?i=bun,ts,vue,pinia,tailwind,ruby" />
 
 ### Databases
 <br />
@@ -20,6 +20,6 @@
 
 **Currently Exploring**
 
-<img src="https://skillicons.dev/icons?i=deno,rust,wasm,tensorflow,solidity" />
+<img src="https://skillicons.dev/icons?i=zig,rust,wasm,tensorflow,solidity" />
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
