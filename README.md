@@ -16,10 +16,10 @@
 
 ### Web3 / AI
 <br />
-<img src="https://skillicons.dev/icons?i=wasm,tensorflow,solidity"/>
+<img src="https://skillicons.dev/icons?i=wasm,tensorflow,solidity,python"/>
 
 ### Other Languages
 <br />
-<img src="https://skillicons.dev/icons?i=elixir,python,cs,php,bash"/>
+<img src="https://skillicons.dev/icons?i=elixir,cs,php,bash"/>
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
