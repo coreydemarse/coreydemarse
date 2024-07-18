@@ -8,18 +8,18 @@
 
 ### Current Stack
 <br />
-<img src="https://skillicons.dev/icons?i=bun,ts,vue,pinia,tailwind,ruby" />
+<img src="https://skillicons.dev/icons?i=vue,bun,ts,ruby,zig,rust" />
 
 ### Databases
 <br />
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 
-### Languages
+### Web3 / AI
 <br />
-<img src="https://skillicons.dev/icons?i=html,css,ts,js,elixir,ruby,python,cs,php,bash"/>
+<img src="https://skillicons.dev/icons?i=wasm,tensorflow,solidity"/>
 
-**Currently Exploring**
-
-<img src="https://skillicons.dev/icons?i=zig,rust,wasm,tensorflow,solidity" />
+### Other Languages
+<br />
+<img src="https://skillicons.dev/icons?i=elixir,python,cs,php,bash"/>
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
