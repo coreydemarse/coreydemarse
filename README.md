@@ -20,6 +20,6 @@
 
 ### Other Languages
 <br />
-<img src="https://skillicons.dev/icons?i=elixir,cs,php,bash"/>
+<img src="https://skillicons.dev/icons?i=elixir,php,cs,vala,bash"/>
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
