@@ -16,7 +16,7 @@
 
 ### Web3 / AI
 <br />
-<img src="https://skillicons.dev/icons?i=wasm,tensorflow,solidity,python"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=wasm,tensorflow,solidity,mojo,python&theme=dark" />
 
 ### Other Languages
 <br />
