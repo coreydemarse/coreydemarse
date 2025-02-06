@@ -6,7 +6,7 @@
 <br />
 <img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,nginx" />
 
-### Current Stack
+### Languages
 <br />
 <img src="https://skillicons.dev/icons?i=vue,bun,ts,ruby,zig,rust" />
 
