@@ -4,7 +4,7 @@
 
 ## My Stack 🥞 
 <br />
-<img src="https://skillicons.dev/icons?i=linux,vscode,git,docker,nginx" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=linux,zed,git,docker,caddy" />
 
 ### Code
 <br />
