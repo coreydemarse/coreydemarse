@@ -14,12 +14,8 @@
 <br />
 <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb" />
 
-### Web3 / AI
-<br />
-<img src="https://go-skill-icons.vercel.app/api/icons?i=solidity,wasm,tensorflow,mojo,python&theme=dark" />
-
 ### Other Languages
 <br />
-<img src="https://skillicons.dev/icons?i=cs,vala,php,bash"/>
+<img src="https://skillicons.dev/icons?i=cs,vala,solidity,python,php,bash"/>
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
