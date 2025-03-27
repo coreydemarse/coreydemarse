@@ -8,7 +8,7 @@
 
 ### Code
 <br />
-<img src="https://skillicons.dev/icons?i=vue,bun,ts,ruby,zig,rust" />
+<img src="https://skillicons.dev/icons?i=vue,bun,ts,ruby,elixir,zig,rust" />
 
 ### Databases
 <br />
@@ -20,6 +20,6 @@
 
 ### Other Languages
 <br />
-<img src="https://skillicons.dev/icons?i=cs,vala,elixir,php,bash"/>
+<img src="https://skillicons.dev/icons?i=cs,vala,php,bash"/>
 
 *[still hungry?...](https://github.com/stars/coreydemarse/lists/my-stack)*
